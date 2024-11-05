@@ -1,4 +1,4 @@
-import react from "react"
+
 import Image from "next/image";
 import profilepicture from "../../../public/profilepicture.webp"
 

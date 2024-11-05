@@ -1,4 +1,4 @@
-import reaxt from "react"
+
 
 const Contact = () =>{
 
